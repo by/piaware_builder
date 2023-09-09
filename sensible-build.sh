@@ -86,7 +86,7 @@ shallow_clone https://github.com/flightaware/tcllauncher.git v1.8 "$OUTDIR/tclla
 
 shallow_clone https://github.com/flightaware/dump1090.git v8.2 "$OUTDIR/dump1090"
 
-shallow_clone https://github.com/mutability/mlat-client.git v0.2.13 "$OUTDIR/mlat-client"
+shallow_clone https://github.com/wiedehopf/mlat-client.git master "$OUTDIR/mlat-client"
 
 shallow_clone https://github.com/flightaware/dump978.git v8.2 "$OUTDIR/dump978"
 
